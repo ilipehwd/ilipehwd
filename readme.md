@@ -1,4 +1,6 @@
-<img src='https://i.imgur.com/8dtCaoI.png' style='background-color:#000' height='100' align='center'>
+<figure style='text-align:center;'>
+<img src='https://i.imgur.com/8dtCaoI.png' style='background-color:#000' height='100' >
+</figure>
 
 <hr>
 
