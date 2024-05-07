@@ -1,11 +1,10 @@
-<center><img src='https://i.imgur.com/8dtCaoI.png' style='background-color:#000' height='100'>
+<img src='https://i.imgur.com/8dtCaoI.png' style='background-color:#000' height='100' align='center'>
 
 <hr>
 
-<p> ✌ Olá, eu sou Felipe de Sousa, também conhecido como ilipe </p>
+<p align='center'> ✌ Olá, eu sou Felipe de Sousa, também conhecido como ilipe </p>
 
-<p>Sou estudante de Ciência da Computação e tenho maior interesse na parte back-end na programação </p>
-</center>
+<p align='center'>Sou estudante de Ciência da Computação e tenho maior interesse na parte back-end na programação </p>
 
 <img src='https://media.tenor.com/5Y4VzsEwY8AAAAAC/gta-gta-sa.gif' align='right' width='400px'>
 
