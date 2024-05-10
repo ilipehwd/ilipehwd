@@ -11,10 +11,12 @@
 <img src='https://media.tenor.com/5Y4VzsEwY8AAAAAC/gta-gta-sa.gif' align='right' width='400px'>
 
 <h2>💼 Sobre</h2>
-* Técnico em informática - <a src='https://www.ifmg.edu.br/portal' target='_blank'>IFMG</a> <br>
-* Graduando em Ciência da Computação - <a src='https://www.fumec.br/' target='_blank'>FUMEC </a><br>
-* Atualmente aprendendo <a href='https://www.java.com/pt-BR/'>Java</a>, porém tenho breve conhecimento em <a href='https://python.org'>Python</a>, <a href='https://dart.dev/'>Dart</a> e <a href='https://www.mysql.com/'>MySQL</a> <br>
-* Tenho interesse em aprender <a href='https://www.lua.org/'>LUA</a>
+<ul>
+<li>Técnico em informática - <a src='https://www.ifmg.edu.br/portal' target='_blank'>IFMG</a></li>
+<li>Graduando em Ciência da Computação - <a src='https://www.fumec.br/' target='_blank'>FUMEC </a></li>
+<li>Atualmente aprendendo <a href='https://www.java.com/pt-BR/'>Java</a>, porém tenho breve conhecimento em <a href='https://python.org'>Python</a>, <a href='https://dart.dev/'>Dart</a> e <a href='https://www.mysql.com/'>MySQL</a></li>
+<li>Tenho interesse em aprender <a href='https://www.lua.org/'>LUA</a></li>
+</ul>
 
 <h2>🔗 Links</h2>
 <a src='https://www.linkedin.com/in/felipe-sousa-mendes-gomes-ab74852b1/'><img src='https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white'></a>
