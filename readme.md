@@ -6,7 +6,7 @@
 
 <p align='center'> ✌ Olá, eu sou Felipe de Sousa, também conhecido como ilipe </p>
 
-<p align='center'>Sou estudante de Ciência da Computação e tenho maior interesse na parte back-end na programação </p>
+<p align='center'>Sou estudante de Ciência da Computação e sempre tive interesse em atuar na área da tecnologia e hoje estou lutando para conquistar esse sonho. </p>
 
 <img src='https://media.tenor.com/5Y4VzsEwY8AAAAAC/gta-gta-sa.gif' align='right' width='400px'>
 
