@@ -8,8 +8,6 @@
 
 <p align='center'>Sou estudante de Ciência da Computação e sempre tive interesse em atuar na área da tecnologia e hoje estou lutando para conquistar esse sonho. </p>
 
-<img src='https://media.tenor.com/5Y4VzsEwY8AAAAAC/gta-gta-sa.gif' align='right' width='400px'>
-
 <h2>💼 Sobre</h2>
 <ul>
 <li>Técnico em informática - <a href='https://www.ifmg.edu.br/portal' target='_blank'>IFMG</a></li>
