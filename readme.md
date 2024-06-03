@@ -1,6 +1,4 @@
-<figure style='text-align:center;'>
-<img src='https://i.imgur.com/8dtCaoI.png' style='background-color:#000' height='100' >
-</figure>
+<img src='https://i.imgur.com/8dtCaoI.png' style='background-color:#000' height='100' align='center'>
 
 <hr>
 
@@ -13,7 +11,7 @@
 <li>Técnico em informática - <a href='https://www.ifmg.edu.br/portal' target='_blank'>IFMG</a></li>
 <li>Graduando em Ciência da Computação - <a href='https://www.fumec.br/' target='_blank'>FUMEC </a></li>
 <li>Atualmente aprendendo <a href='https://www.java.com/pt-BR/'>Java</a>, porém tenho breve conhecimento em <a href='https://python.org'>Python</a>, <a href='https://dart.dev/'>Dart</a> e <a href='https://www.mysql.com/'>MySQL</a></li>
-<li>Tenho interesse em aprender <a href='https://www.lua.org/'>LUA</a></li>
+<li>Procuro atuar como desenvolvedor de software e aumentar meu conhecimento na área da tecnologia</li>
 </ul>
 
 <h2>🔗 Links</h2>
