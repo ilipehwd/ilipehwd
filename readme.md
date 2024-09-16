@@ -2,9 +2,9 @@
 
 <hr>
 
-<p align='center'> ✌ Olá, eu sou Felipe de Sousa, também conhecido como ilipe </p>
+<p align='center'> ✌ Olá, eu sou Felipe de Sousa </p>
 
-<p align='center'>Sou estudante de Ciência da Computação e sempre tive interesse em atuar na área da tecnologia e hoje estou lutando para conquistar esse sonho. </p>
+<p align='center'>Técnico em informática pelo IFMG - Possuo conhecimento em desenvolvimento de aplicações para desktop e desenvolvimento WEB | Graduando em Ciência da Computação - Como estudante na área da computação, estou continuamente aprimorando minhas habilidades para expandir minha capacidade de programação e resolução de problemas. Meu objetivo é aplicar esses conhecimentos de forma eficaz </p>
 
 <h2>💼 Sobre</h2>
 <ul>
