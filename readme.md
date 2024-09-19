@@ -10,8 +10,7 @@
 <ul>
 <li>Técnico em informática - <a href='https://www.ifmg.edu.br/portal' target='_blank'>IFMG</a></li>
 <li>Graduando em Ciência da Computação - <a href='https://www.pucminas.br/' target='_blank'>PUC</a></li>
-<li>Atualmente aprendendo <a href='https://www.java.com/pt-BR/'>Java</a>, porém tenho breve conhecimento em <a href='https://python.org'>Python</a>, <a href='https://dart.dev/'>Dart</a> e <a href='https://www.mysql.com/'>MySQL</a></li>
-<li>Procuro atuar como desenvolvedor de software e aumentar meu conhecimento na área da tecnologia</li>
+<li>Como estudante na área da computação, estou continuamente aprimorando minhas habilidades para expandir minha capacidade de programação e resolução de problemas.</li>
 </ul>
 
 <h2>🔗 Links</h2>
