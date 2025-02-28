@@ -1,7 +1,3 @@
-<img src='https://i.imgur.com/8dtCaoI.png' style='background-color:#000' height='100' align='center'>
-
-<hr>
-
 <p align='center'> ✌ Olá, eu sou Felipe de Sousa </p>
 
 <p align='center'>Técnico em informática pelo IFMG - Possuo conhecimento em desenvolvimento de aplicações para desktop e desenvolvimento WEB | Graduando em Ciência da Computação - Como estudante na área da computação, estou continuamente aprimorando minhas habilidades para expandir minha capacidade de programação e resolução de problemas. Meu objetivo é aplicar esses conhecimentos de forma eficaz </p>
